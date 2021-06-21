@@ -1,0 +1,9 @@
+{
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always"
+}
+// @JacksonKearl Just found the editor.autoClosingBrackets on settings. Just change it from 'languageDefined' to 'always' to make it work on react files.
+
+// It works for parentheses, brackets and braces.
+
+// Default is languageDefined
